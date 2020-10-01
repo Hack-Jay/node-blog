@@ -1,0 +1,31 @@
+2020-10-Th 00:17:06:   <-- GET /
+2020-10-Th 00:17:06: GET / - 216ms
+2020-10-Th 00:17:06:   --> GET / 200 223ms 185b
+2020-10-Th 00:17:06:   <-- GET /stylesheets/style.css
+2020-10-Th 00:17:06:   <-- GET /
+2020-10-Th 00:17:06:   --> GET /stylesheets/style.css 200 9ms 111b
+2020-10-Th 00:17:07: GET / - 18ms
+2020-10-Th 00:17:07:   --> GET / 200 21ms 185b
+2020-10-Th 00:17:07:   <-- GET /stylesheets/style.css
+2020-10-Th 00:17:07:   --> GET /stylesheets/style.css 200 2ms 111b
+2020-10-Th 00:17:12:   <-- GET /user/login?username=barry&password=123
+2020-10-Th 00:17:12: GET /user/login?username=barry&password=123 - 5ms
+2020-10-Th 00:17:12:   --> GET /user/login?username=barry&password=123 200 7ms 39b
+2020-10-Th 00:17:13:   <-- GET /user/login?username=barry&password=123
+2020-10-Th 00:17:13: GET /user/login?username=barry&password=123 - 2ms
+2020-10-Th 00:17:13:   --> GET /user/login?username=barry&password=123 200 3ms 39b
+2020-10-Th 00:17:13:   <-- GET /user/login?username=barry&password=123
+2020-10-Th 00:17:13: GET /user/login?username=barry&password=123 - 2ms
+2020-10-Th 00:17:13:   --> GET /user/login?username=barry&password=123 200 3ms 39b
+2020-10-Th 00:17:17:   <-- GET /user/login?username=barry&password=123456
+2020-10-Th 00:17:17: login success barry
+2020-10-Th 00:17:17: GET /user/login?username=barry&password=123456 - 2ms
+2020-10-Th 00:17:17:   --> GET /user/login?username=barry&password=123456 200 3ms 77b
+2020-10-Th 00:17:18:   <-- GET /user/login?username=barry&password=123456
+2020-10-Th 00:17:18: login success barry
+2020-10-Th 00:17:18: GET /user/login?username=barry&password=123456 - 2ms
+2020-10-Th 00:17:18:   --> GET /user/login?username=barry&password=123456 200 3ms 77b
+2020-10-Th 00:17:19:   <-- GET /user/login?username=barry&password=123456
+2020-10-Th 00:17:19: login success barry
+2020-10-Th 00:17:19: GET /user/login?username=barry&password=123456 - 2ms
+2020-10-Th 00:17:19:   --> GET /user/login?username=barry&password=123456 200 3ms 77b
